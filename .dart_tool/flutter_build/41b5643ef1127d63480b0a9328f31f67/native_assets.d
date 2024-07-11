@@ -1,0 +1,1 @@
+ D:\\Lana\\tes\\yayasan\\.dart_tool\\flutter_build\\41b5643ef1127d63480b0a9328f31f67\\native_assets.yaml: 
